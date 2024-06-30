@@ -1,9 +1,11 @@
-# OpenClassRooms-cours
+# 7697016-Front-End.1
 
-Voici un projet réaliser grace au cours d'OpenClassRooms.
+Code base du fil rouge pour le cours OpenClassrooms [Créez des pages web dynamiques avec JavaScript](https://openclassrooms.com/fr/courses/7697016-creez-des-pages-web-dynamiques-avec-javascript)
 
-Il s'agits d'un ite web Dynamics en javascripts.
+## Installation
 
-Ce site permets de voirs des pièces auto-mobile a différent prix et différent stockage, pouvent etre trié par prix par rupture et plusieurs autre manière.
+Après avoir cloné le repo vous avez plusieurs options pour lancer le projet. 
 
-Lien du cours ici : https://openclassrooms.com/fr/courses/7697016-creez-des-pages-web-dynamiques-avec-javascript/7910981-preparez-votre-projet
+Si vous utiliser VSCode ou un autre éditeur de code avec une extersion de serveur web comme live server, vous pouvez lancer direcement votre site avec l'extension que vous utilisez habituellement. 
+
+Dans le cas contraire vous pouvez installer les dépendances de ce projet avec `npm install` puis lancer le projet via la commande `npm start`. Vous verrez dans le termninal le lien vers le site (par defaut http://127.0.0.1:8080 )
